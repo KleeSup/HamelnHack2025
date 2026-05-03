@@ -18,13 +18,13 @@ The user can also send the error via e-mail to an e-mail specified in the backen
 Messages and chats will be stored in a Postgres database, the connection between the app and the backend is done by using REST.
 
 ## Tech-Stack
-Golang
-Python
-Kotlin
-OPC-UA / MCP
-REST
-Postgres / SQL
-Firebase
+- Golang
+- Python
+- Kotlin
+- OPC-UA / MCP
+- REST
+- Postgres / SQL
+- Firebase
 
 ## Learnings
 It was great building something meaningful and actually required in the real world while still being under stress of time but looking forward to accomplishing what's wanted. The teamwork was what made it possible and everyone had much to learn. The fun we had was greater than the stress we felt for building it completely, which was all that mattered.
