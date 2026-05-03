@@ -1,11 +1,11 @@
 # Complete project from Hameln Hackathon 2025
 
 ## Event
-Type: Hackathon
-Location: Hameln, Germany
-Date: 30. October 2025
-Time: 12 hours
-Group size: 2 people
+- Type: Hackathon
+- Location: Hameln, Germany
+- Date: 30. October 2025
+- Time: 12 hours
+- Group size: 2 people
 
 ## Task
 Building a software for [Lenze SE](https://www.lenze.com/de-de) that notifies workers in machine rooms once a machine stops working due to an error or other problems and give the worker a way to understand and find the problem directly without needing to read through a manual with an error code.
